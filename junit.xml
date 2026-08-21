@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="0" errors="0" time="0.539">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2026-08-21T01:53:51" time="0.439" tests="1">
+    <testcase classname=" deve converter 10 para binário 1010" name=" deve converter 10 para binário 1010" time="0.033">
+    </testcase>
+  </testsuite>
+</testsuites>
